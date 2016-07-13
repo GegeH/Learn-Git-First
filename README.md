@@ -1,5 +1,5 @@
 # Learn-Git-First
-Learn Git Command First, test it
+Learn Git Command First, test it!
 
 ### Common Git Commands
 #### Github commands:
