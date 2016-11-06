@@ -1,0 +1,6 @@
+This is test text file.
+Purpose:
+	To see if it can be counted into contribution
+	To figure out how to make it count into contribution
+
+
